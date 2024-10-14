@@ -12,4 +12,3 @@ In this chalk talk, explore how to architect a serverless AI gateway on AWS to s
 
 ### Next Steps
  - [[GitHub] Sample Demo Application](TBD)
-
