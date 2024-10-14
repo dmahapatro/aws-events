@@ -8,6 +8,11 @@ Learn to harness the power of AWS Serverless to build robust, cost-effective gen
 ### Slides
  - [Session presentation slides](TBD)
 
+
+### Customer References
+ - [[Case Study] Parameta Automates Manual Compliance Reviews and Saves Hours Using Amazon Bedrock](https://aws.amazon.com/solutions/case-studies/parameta-tp-icap-bedrock/)
+ - [[YouTube] Parameta Solutions: Empowering Compliance Teams with Generative AI](https://www.youtube.com/watch?v=jN2RBaQlRBE)
+
 ### Next Steps
  - [[Workshop] Building Scalable API for Generative AI applications](https://s12d.com/genai-serverless-workshop)
  - [[Blog] Prompt Chaining and Integrations](https://s12d.com/prompt_chaining_hitl)
