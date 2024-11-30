@@ -19,4 +19,4 @@ Learn to harness the power of AWS Serverless to build robust, cost-effective gen
  - [[Blog] Function calling/Tool Use in Private Aviation](https://s12d.com/aviation_tool_use)
  - [[Blog] Serverless integration patterns for LLMs](https://aws.amazon.com/blogs/compute/designing-serverless-integration-patterns-for-large-language-models-llms/)
  - [[YouTube] GOTO EDA Day 2023](https://www.youtube.com/watch?v=dzW3-Mol1yo)
- - [Function calling in Private Aviation](https://github.com/aws-samples/serverless-genai-examples/tree/main/airline-reservation-tool-use)
+ - [[GitHub] Function calling in Private Aviation](https://github.com/aws-samples/serverless-genai-examples/tree/main/airline-reservation-tool-use)
