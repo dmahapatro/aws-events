@@ -18,3 +18,8 @@ Learn to harness the power of AWS Serverless to build robust, cost-effective gen
  - [[Blog] Prompt Chaining and Integrations](https://s12d.com/prompt_chaining_hitl)
  - [[Blog] Function calling/Tool Use in Private Aviation](https://s12d.com/aviation_tool_use)
 
+### Videos
+ - [[YouTube] GOTO EDA Day 2023](https://www.youtube.com/watch?v=dzW3-Mol1yo)
+
+### GitHub
+ - [Function calling in Private Aviation](https://github.com/aws-samples/serverless-genai-examples/tree/main/airline-reservation-tool-use)
