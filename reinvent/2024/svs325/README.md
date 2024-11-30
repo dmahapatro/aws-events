@@ -11,4 +11,6 @@ In this chalk talk, explore how to architect a serverless AI gateway on AWS to s
  - [Session presentation slides](TBD)
 
 ### Next Steps
- - [[GitHub] Sample Demo Application](TBD)
+ - [[GitHub] Sample Demo Application](https://github.com/aws-samples/serverless-ai-gateway)
+ - [[GitHub] LLM Gateway sample](https://github.com/aws-samples/llm-gateway)
+ - [[Blog] AI Gateway](https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-gateway-to-allow-secure-and-compliant-consumption-of-foundation-models/)
