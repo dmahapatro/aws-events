@@ -12,5 +12,7 @@ In this chalk talk, explore how to architect a serverless AI gateway on AWS to s
 
 ### Next Steps
  - [[GitHub] Sample Demo Application](https://github.com/aws-samples/serverless-ai-gateway)
+ - [[GitHub] Semantic Router](https://github.com/aurelio-labs/semantic-router)
+ - [Lite LLM](https://www.litellm.ai/)
  - [[GitHub] LLM Gateway sample](https://github.com/aws-samples/llm-gateway)
  - [[Blog] AI Gateway](https://aws.amazon.com/blogs/machine-learning/create-a-generative-ai-gateway-to-allow-secure-and-compliant-consumption-of-foundation-models/)
