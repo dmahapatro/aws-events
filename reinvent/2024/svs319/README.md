@@ -8,6 +8,8 @@ Learn to harness the power of AWS Serverless to build robust, cost-effective gen
 ### Slides
  - [Session presentation slides](TBD)
 
+### re:Invent 2024 sessions for reference
+ - [Tool use & agents at the frontier: Advanced techniques for LLM actions (AIM306)](https://youtu.be/nLrDOTuIMDA?si=_exIAcHrzjW13clM)
 
 ### Customer References
  - [[Case Study] Parameta Automates Manual Compliance Reviews and Saves Hours Using Amazon Bedrock](https://aws.amazon.com/solutions/case-studies/parameta-tp-icap-bedrock/)
