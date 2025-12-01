@@ -9,9 +9,9 @@ Discover how to architect scalable, production-ready agentic AI applications on 
 
 ### Presenters
  - Heeki Park, Principal Specialist Solutions Architect, Amazon Web Services
-    - Linktree: https://linktr.ee/heekipark 
+    - Linktree: [https://linktr.ee/heekipark](https://linktr.ee/heekipark)
  - Dhiraj Mahapatro, Principal Specialist Solutions Architect, Amazon Web Services 
-    - Linktree: https://linktr.ee/dmahapatro
+    - Linktree: [https://linktr.ee/dmahapatro](https://linktr.ee/dmahapatro)
     - LinkedIn: @dmahapatro
     - GitHub: @dmahapatro
 
