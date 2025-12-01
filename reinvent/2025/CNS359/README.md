@@ -9,9 +9,16 @@ Discover how to architect scalable, production-ready agentic AI applications on 
 
 ### Presenters
  - Heeki Park, Principal Specialist Solutions Architect, Amazon Web Services
+    - Linktree: https://linktr.ee/heekipark 
  - Dhiraj Mahapatro, Principal Specialist Solutions Architect, Amazon Web Services 
+    - Linktree: https://linktr.ee/dmahapatro
+    - LinkedIn: @dmahapatro
+    - GitHub: @dmahapatro
 
 ### Resources
+
+### Slides
+ - [Session presentation slides](./RIV2025_CNS359.pdf)
 
 #### Blogs
  - [Effectively building AI agents on AWS Serverless](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/)
@@ -31,6 +38,3 @@ Discover how to architect scalable, production-ready agentic AI applications on 
  - [Tool Use with AWS Step Functions in Private Aviation](https://github.com/aws-samples/serverless-genai-examples/tree/main/airline-reservation-tool-use)
  - [MCP on Serverless samples](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main)
  - [A2A with Lambda functions](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main/a2a)
-
-### Slides
- - [Session presentation slides](TBD)
